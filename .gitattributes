@@ -1,2 +1,6 @@
-brahma-scan.html
-linguist-detectable=false
+# Ignore the HTML file for stats
+brahma-scan.html linguist-generated=true
+
+# Force the project to be Batchfile
+*.bat linguist-language=Batchfile
+*.bat linguist-detectable=true
