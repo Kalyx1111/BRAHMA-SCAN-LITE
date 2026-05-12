@@ -1,0 +1,5 @@
+MAC Command
+chmod +x run_brahma_scan.command
+
+Linux Command
+chmod +x run_brahma_scan.sh

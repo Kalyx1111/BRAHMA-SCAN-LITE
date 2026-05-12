@@ -1,0 +1,10 @@
+{
+  "name": "BRAHMA SCAN",
+  "short_name": "BRAHMA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020508",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait-primary",
+  "icons": []
+}
